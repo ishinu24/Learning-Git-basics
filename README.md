@@ -46,3 +46,13 @@ git merge main
 checked the code from vs code, solved conflicts saved, staged , again commited : git commit -am "solved merge conflicts"
 Done.
 
+git remote add origin urlgithub.com
+git checkout main
+git push origin main
+git checkout testbranch
+git push origin testbranch
+git fetch
+git checkout main
+git pull origin main
+git log --all --graph
+
