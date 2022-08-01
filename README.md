@@ -16,6 +16,14 @@ Adding content from local repo.
   - Third line for content.
   - Fourth line for content.
 
+### Yet to cover
+
+- Concepts:
+  - Stash
+  - Rebase
+  - Release
+  - Hotfix
+
 ## Commands i performed from this tutorial.
 
 ```
