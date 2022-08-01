@@ -1,20 +1,22 @@
-# Demo 
+# Learning Git Basics 
+
+## Overview
 
 Git Basics readme file.
 
 Going to learn different git commands in detail.
 
-## Subheader
-
 Adding content from local repo.
 
-# Description
+### _Description_
 
-Adding description from feature branch. 
+- Adding description from feature branch:
+  - Content for description.
+  - Second line for content.
 
+## Commands i performed from this tutorial.
 
-# Commands i performed from this tutorial.
-
+```
 git config --global user.name "...."
 git config --global user.email "...."
 git checkout -b feature-testing
@@ -55,4 +57,4 @@ git fetch
 git checkout main
 git pull origin main
 git log --all --graph
-
+```
